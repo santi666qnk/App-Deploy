@@ -1,0 +1,10 @@
+com\example\demoImage\service\impl\UploadFileServiceImpl.class
+com\example\demoImage\repository\IMemeRepository.class
+com\example\demoImage\service\IMemeService.class
+com\example\demoImage\service\impl\MemeServiceImpl.class
+com\example\demoImage\ServletInitializer.class
+com\example\demoImage\controller\MemeController.class
+com\example\demoImage\model\Meme.class
+com\example\demoImage\service\IUploadFileService.class
+com\example\demoImage\DemoImageApplication.class
+com\example\demoImage\controller\HomeController.class
